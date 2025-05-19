@@ -56,13 +56,13 @@ To comply with Discord’s Terms of Service.
 4. Data Security / Безопасность данных
 English:
 
-Data is stored securely in [database/service, e.g., MongoDB, PostgreSQL].
+Data is stored securely in [ MongoDB, PostgreSQL].
 
 Access is restricted to the bot developer only.
 
 Русский:
 
-Данные хранятся в защищенной базе ([название, например, MongoDB, PostgreSQL]).
+Данные хранятся в защищенной базе ([MongoDB, PostgreSQL]).
 
 Доступ есть только у разработчика бота.
 
@@ -72,14 +72,14 @@ You can:
 
 Request a copy of your stored data.
 
-Ask to delete your data (contact: [Your Email/Discord]).
+Ask to delete your data (contact: yorik231).
 
 Русский:
 Вы можете:
 
 Запросить копию ваших данных.
 
-Удалить свои данные (контакт: [Ваша почта/Discord]).
+Удалить свои данные (контакт: yorik231).
 
 6. Changes to This Policy / Изменения в политике
 English:
